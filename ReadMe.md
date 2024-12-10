@@ -46,7 +46,7 @@ The bottom line is that we **can** do better than this... which is why I've deci
 
 Something wearers will be confident and proud to use as a capable and comfortable first-line-of-defense tool against infectious respiratory pathogens.
 
----
+
 
 ## Overall Design Goals for HOPLITE:
 
@@ -59,7 +59,7 @@ Something wearers will be confident and proud to use as a capable and comfortabl
 - Easy communication for both the wearer and those around them
 - Look cool as fuck 
 
----
+
 
 ## Who Is HOPLITE For?
 
@@ -85,7 +85,7 @@ These same factors make it well-suited for a wide range of applications. Some ex
 
 - People who live in areas with hazardous levels of air pollution
 
----
+
 
 ## HOPLITE Design Specifications:
 
@@ -113,7 +113,7 @@ Below is a set of design specifications outlined for the HOPLITE Powered Air Pur
 
 - Generally try to use as much off-the-shelf hardware as possible
 
-<u>Optional Filtration System Features to Consider:</u>
+<ins>Optional Filtration System Features to Consider:</ins>
 
 - Ability to heat / cool supplied air
   
@@ -150,7 +150,7 @@ Below is a set of design specifications outlined for the HOPLITE Powered Air Pur
   - "Helmet" Profile:
     Cover entire head and neck, full head containment. Face and mouth should be visible and unobscured
 
-    <u>Optional Mask Features to Consider:</u>
+    <ins>Optional Mask Features to Consider:</ins>
 
 - Filterable exhalation venting (instead of straight venting of exhalation, which will make it applicable for source control)
 
@@ -162,7 +162,7 @@ Below is a set of design specifications outlined for the HOPLITE Powered Air Pur
 
 - Auto-darkening face shield for sun protection / welding protection
 
-###### Onboard Communications Package:
+##### Onboard Communications Package:
 
 - Microphone integrated into mask modularly, but easily removable + replaceable
   
@@ -180,7 +180,7 @@ Below is a set of design specifications outlined for the HOPLITE Powered Air Pur
 
 - Waterproofing IP 66 or something – must be suitable for decontamination
 
-<u>Optional Communications Package Features to Consider:</u>
+<ins>Optional Communications Package Features to Consider:</ins>
 
 - Can work with Bluetooth / wireless / radio for non line-of-sight comms (maybe pair with AirPods / other bluetooth earbuds)
 - Wireless / Radio communication with the integrated comms package
@@ -194,7 +194,7 @@ Below is a set of design specifications outlined for the HOPLITE Powered Air Pur
 
 - Ability to broadcast PAPR data to the web via phone connection (might be useful for live monitoring of operation, especially for worksites and lab environments)
 
----
+
 
 ### Design challenges:
 
@@ -206,7 +206,7 @@ Below is a set of design specifications outlined for the HOPLITE Powered Air Pur
 
 - TODO: There's a lot more 😅
 
----
+
 
 ## Existing Systems & Inspiration:
 
@@ -236,6 +236,8 @@ Below is a set of design specifications outlined for the HOPLITE Powered Air Pur
 - Bubble PAPR
 
 - [Cheapo "PAPR" from AMAZON](https://x.com/moreisdifferent/status/1864371340288909643?s=46&t=b936H7IYL0ryO2h6IbrqIw)
+
+
 
 ---
 
